@@ -12,4 +12,6 @@ class ActiveSupport::TestCase
   fixtures :all
 
   # （すべてのテストで使うその他のヘルパーメソッドは省略）
+
+  
 end
